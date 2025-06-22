@@ -58,6 +58,18 @@ export default function Header() {
           <Button variant="connect" size="lg">
             Connect
           </Button>
+
+          <Button variant="connect" size="lg">
+            Connect
+          </Button>
+
+          <Link href="/Page">
+  <Button variant="connect" size="lg" className="cursor-pointer">
+    Connect
+  </Button>
+</Link>
+
+
         </div>
       </div>
     </header>
