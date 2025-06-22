@@ -55,6 +55,9 @@ export default function Header() {
               <path fill="#393939" d="M0 208l127.9 76.1V141.9z"/>
             </svg>
           </div>
+          <Button variant="connect" size="lg">
+            Connect
+          </Button>
 
           <Button variant="connect" size="lg">
             Connect
@@ -65,6 +68,7 @@ export default function Header() {
     Connect
   </Button>
 </Link>
+
 
         </div>
       </div>
