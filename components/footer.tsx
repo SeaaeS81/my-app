@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
 
       className="bg-gray-200 text-blue-800 text-center py-5 text-sm font-sans"
 
-      className="bg-blue-100 text-blue-800 text-center py-5 text-sm font-sans"
+      
 
     >
       <p className="font-semibold">Help & Support</p>
