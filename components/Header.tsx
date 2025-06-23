@@ -57,13 +57,7 @@ export default function Header() {
           </div>
 
 
-          <Button variant="connect" size="lg">
-            Connect
-          </Button>
-
-          <Button variant="connect" size="lg">
-            Connect
-          </Button>
+          
 
 
           <Link href="/Page">
